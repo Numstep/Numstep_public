@@ -8,8 +8,7 @@
     "games/social/daily/torus/7x7.png",
     "games/social/daily/torus/9x9.png",
     "games/social/daily/cube/3x3.png",
-    "games/social/daily/box/3x3.png",
-    "games/social/daily/hypercube/3x3.png"
+    "games/social/daily/box/3x3.png"
   ],
   "selection_note": "Stable filenames; PNG contents are rewritten daily."
 }
