@@ -38,6 +38,15 @@
       "source": "games/numstep-cube/data/2026-09-09_share.json"
     },
     {
+      "kind": "hypercube",
+      "size": 3,
+      "date": "2026-10-17",
+      "gif": "hypercube_3x3_2026-10-17_solution.gif",
+      "video": "hypercube_3x3_2026-10-17_solution.mp4",
+      "source": "games/numstep-hypercube/data/2026-10-16.json",
+      "invitation_date": "2026-10-17"
+    },
+    {
       "kind": "torus",
       "size": 5,
       "date": "2026-10-09",
