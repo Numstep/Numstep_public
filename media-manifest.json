@@ -3,7 +3,7 @@
   "repository": "Numstep/Numstep_public",
   "branch": "main",
   "base_url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main",
-  "asset_count": 275,
+  "asset_count": 277,
   "assets": [
     {
       "path": "media/games/social/daily/box/3x3.jpg",
@@ -1187,6 +1187,20 @@
       "media_type": "video/mp4",
       "bytes": 391623,
       "sha256": "44953e15795e7a6e9dc3819e86f13b3d44901fe20a94c8375822cf576ccbd237"
+    },
+    {
+      "path": "media/games/social/instagram/library/hypercube_3x3_2026-11-03_solution.gif",
+      "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/hypercube_3x3_2026-11-03_solution.gif",
+      "media_type": "image/gif",
+      "bytes": 2033342,
+      "sha256": "6cda06a7a1dc78fe65fe748cb1514ffbb04b488f5cd6e0eedcc02a7c941c247c"
+    },
+    {
+      "path": "media/games/social/instagram/library/hypercube_3x3_2026-11-03_solution.mp4",
+      "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/hypercube_3x3_2026-11-03_solution.mp4",
+      "media_type": "video/mp4",
+      "bytes": 246837,
+      "sha256": "61244446b4c80dce52cec06c70168c4d77cc6470d0677d44bcf4c63260f3588e"
     },
     {
       "path": "media/games/social/instagram/library/torus_5x5_2026-09-10_solution.gif",
