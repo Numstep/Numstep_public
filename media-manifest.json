@@ -3,7 +3,7 @@
   "repository": "Numstep/Numstep_public",
   "branch": "main",
   "base_url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main",
-  "asset_count": 286,
+  "asset_count": 288,
   "assets": [
     {
       "path": "media/games/social/daily/box/3x3.jpg",
@@ -363,6 +363,13 @@
       "sha256": "89ff4a2ebce570bd1c92665e029d572c19744420435aaf0b9803709fb55ad856"
     },
     {
+      "path": "media/games/social/instagram/library/box_3x3_2026-10-06_solution.gif",
+      "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/box_3x3_2026-10-06_solution.gif",
+      "media_type": "image/gif",
+      "bytes": 1573683,
+      "sha256": "6226e4242ecb31f1c1fed211b692b8faaf9a407d537a052ec3bf74cfbd19e1dc"
+    },
+    {
       "path": "media/games/social/instagram/library/box_3x3_2026-10-16_solution.gif",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/box_3x3_2026-10-16_solution.gif",
       "media_type": "image/gif",
@@ -464,8 +471,8 @@
       "path": "media/games/social/instagram/library/classic_5x5_2026-09-17_solution.gif",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/classic_5x5_2026-09-17_solution.gif",
       "media_type": "image/gif",
-      "bytes": 1210969,
-      "sha256": "f467a985e9f8aba717d51f74b3053233559ce343644032d72596aef5190b8ca6"
+      "bytes": 1211134,
+      "sha256": "4183faa4b116cc548337f31443b868c8dd47ae7d65fc318eb8e522f2f4a7fbed"
     },
     {
       "path": "media/games/social/instagram/library/classic_5x5_2026-09-17_solution.mp4",
@@ -772,8 +779,8 @@
       "path": "media/games/social/instagram/library/classic_7x7_2026-09-18_solution.gif",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/classic_7x7_2026-09-18_solution.gif",
       "media_type": "image/gif",
-      "bytes": 2176955,
-      "sha256": "8367fe6f0e6304a60da47d03a065b848dea31510ceb54bf710a62c7d144ece93"
+      "bytes": 2176915,
+      "sha256": "332d46e266e41c3bc8868267db91d5bb2d270a99a7004f24cd5261f27f2f64b8"
     },
     {
       "path": "media/games/social/instagram/library/classic_7x7_2026-09-18_solution.mp4",
@@ -1182,11 +1189,18 @@
       "sha256": "35114dc8c7d36c6b1b2e2711aab1ba0f9fcb5fd0350e6b733636c99902e707bf"
     },
     {
+      "path": "media/games/social/instagram/library/classic_9x9_2026-10-17_solution.gif",
+      "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/classic_9x9_2026-10-17_solution.gif",
+      "media_type": "image/gif",
+      "bytes": 3713305,
+      "sha256": "84f353617fbd69cba345ace4dafc379a2c4afa27b6966f1dde60ed55066a5608"
+    },
+    {
       "path": "media/games/social/instagram/library/cube_3x3_2026-09-09_solution.gif",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/cube_3x3_2026-09-09_solution.gif",
       "media_type": "image/gif",
-      "bytes": 1170585,
-      "sha256": "4dfa42828a4d79835986fc1b9c1e803cbef79bb51d95dddedd634a6452a29f92"
+      "bytes": 1170130,
+      "sha256": "047c6d03a70ed66ddf48733dca5dc9f697027675babc4f7c71f2a79bc5fb8bf3"
     },
     {
       "path": "media/games/social/instagram/library/cube_3x3_2026-09-09_solution.mp4",
@@ -1304,8 +1318,8 @@
       "path": "media/games/social/instagram/library/torus_5x5_2026-09-16_solution.gif",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/torus_5x5_2026-09-16_solution.gif",
       "media_type": "image/gif",
-      "bytes": 1278073,
-      "sha256": "db727bd4eff5e540a7122e6dc5c7864cf1f556e5f7fa969403846bf9a643df1a"
+      "bytes": 1278401,
+      "sha256": "d7e22312ea740af046a4f01d9c1bab9713743b6638c7e2c38acb80ec0601bed0"
     },
     {
       "path": "media/games/social/instagram/library/torus_5x5_2026-09-16_solution.mp4",
@@ -1675,8 +1689,8 @@
       "path": "media/games/social/instagram/library/torus_7x7_2026-10-06_solution.gif",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/torus_7x7_2026-10-06_solution.gif",
       "media_type": "image/gif",
-      "bytes": 2297703,
-      "sha256": "105ac33e0d63ccf0daa98ecf4ba1cfec7a0fc264c625b336e38817e3244f6cea"
+      "bytes": 2298794,
+      "sha256": "350270edc4e76ed4933a186cb3538fa1ea2331518c108fd4bc84ece56f1683ba"
     },
     {
       "path": "media/games/social/instagram/library/torus_7x7_2026-10-06_solution.mp4",
@@ -1997,8 +2011,8 @@
       "path": "media/games/social/instagram/library/torus_9x9_2026-10-22_solution.gif",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/torus_9x9_2026-10-22_solution.gif",
       "media_type": "image/gif",
-      "bytes": 3556011,
-      "sha256": "2420f512fea8e26e87a0554241c547705c18ad0fe959685fd3f021c02c99723b"
+      "bytes": 3555644,
+      "sha256": "be11dd289d97d5e92e96c0beb9a885f8056558b9c978ea315a3b90073172a554"
     },
     {
       "path": "media/games/social/instagram/library/torus_9x9_2026-10-22_solution.mp4",
