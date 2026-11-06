@@ -1,80 +1,62 @@
 {
   "version": 1,
-  "generated_for": "2026-11-05",
+  "generated_for": "2026-11-06",
   "entries": [
     {
       "kind": "box",
       "size": 3,
-      "date": "2026-10-06",
-      "gif": "box_3x3_2026-10-06_solution.gif",
-      "source": "games/numstep-box/data/2026-10-06_share.json"
+      "date": "2026-10-04",
+      "gif": "box_3x3_2026-10-04_solution.gif",
+      "source": "games/numstep-box/data/2026-10-04_share.json"
     },
     {
       "kind": "classic",
       "size": 5,
-      "date": "2026-09-17",
-      "gif": "classic_5x5_2026-09-17_solution.gif",
-      "source": "games/numstep/data/5x5/2026-09-17_share.json"
+      "date": "2026-11-03",
+      "gif": "classic_5x5_2026-11-03_solution.gif",
+      "source": "games/numstep/data/5x5/2026-11-03_share.json"
     },
     {
       "kind": "classic",
       "size": 7,
-      "date": "2026-09-18",
-      "gif": "classic_7x7_2026-09-18_solution.gif",
-      "source": "games/numstep/data/7x7/2026-09-18_share.json"
+      "date": "2026-09-12",
+      "gif": "classic_7x7_2026-09-12_solution.gif",
+      "source": "games/numstep/data/7x7/2026-09-12_share.json"
     },
     {
       "kind": "classic",
       "size": 9,
-      "date": "2026-10-17",
-      "gif": "classic_9x9_2026-10-17_solution.gif",
-      "source": "games/numstep/data/9x9/2026-10-17_share.json"
+      "date": "2026-09-14",
+      "gif": "classic_9x9_2026-09-14_solution.gif",
+      "source": "games/numstep/data/9x9/2026-09-14_share.json"
     },
     {
       "kind": "cube",
       "size": 3,
-      "date": "2026-09-09",
-      "gif": "cube_3x3_2026-09-09_solution.gif",
-      "source": "games/numstep-cube/data/2026-09-09_share.json"
-    },
-    {
-      "kind": "hypercube",
-      "size": 3,
-      "date": "2026-10-17",
-      "gif": "hypercube_3x3_2026-10-17_solution.gif",
-      "video": "hypercube_3x3_2026-10-17_solution.mp4",
-      "source": "games/numstep-hypercube/data/2026-10-16.json",
-      "invitation_date": "2026-10-17"
-    },
-    {
-      "kind": "hypercube",
-      "size": 3,
-      "date": "2026-11-03",
-      "gif": "hypercube_3x3_2026-11-03_solution.gif",
-      "video": "hypercube_3x3_2026-11-03_solution.mp4",
-      "source": "games/numstep-hypercube/data/2026-11-02.json",
-      "invitation_date": "2026-11-03"
+      "date": "2026-10-22",
+      "gif": "cube_3x3_2026-10-22_solution.gif",
+      "source": "games/numstep-cube/data/2026-10-22_share.json"
     },
     {
       "kind": "torus",
       "size": 5,
-      "date": "2026-09-16",
-      "gif": "torus_5x5_2026-09-16_solution.gif",
-      "source": "games/numstep-taurus/data/5x5/2026-09-16_share.json"
+      "date": "2026-09-18",
+      "gif": "torus_5x5_2026-09-18_solution.gif",
+      "source": "games/numstep-taurus/data/5x5/2026-09-18_share.json"
     },
     {
       "kind": "torus",
       "size": 7,
-      "date": "2026-10-06",
-      "gif": "torus_7x7_2026-10-06_solution.gif",
-      "source": "games/numstep-taurus/data/7x7/2026-10-06_share.json"
+      "date": "2026-09-25",
+      "gif": "torus_7x7_2026-09-25_solution.gif",
+      "source": "games/numstep-taurus/data/7x7/2026-09-25_share.json"
     },
     {
       "kind": "torus",
       "size": 9,
-      "date": "2026-10-22",
-      "gif": "torus_9x9_2026-10-22_solution.gif",
-      "source": "games/numstep-taurus/data/9x9/2026-10-22_share.json"
+      "date": "2026-09-10",
+      "gif": "torus_9x9_2026-09-10_solution.gif",
+      "source": "games/numstep-taurus/data/9x9/2026-09-10_share.json"
     }
   ]
 }
