@@ -3,7 +3,7 @@
   "repository": "Numstep/Numstep_public",
   "branch": "main",
   "base_url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main",
-  "asset_count": 371,
+  "asset_count": 372,
   "assets": [
     {
       "path": "media/games/social/daily/box/3x3.jpg",
@@ -1460,6 +1460,13 @@
       "media_type": "image/gif",
       "bytes": 3668919,
       "sha256": "28509c84960a696bcae2c614052a76f0ffd52e1f02b4d3f7a670e15f033ee175"
+    },
+    {
+      "path": "media/games/social/instagram/library/classic_9x9_2026-10-22_solution.mp4",
+      "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/instagram/library/classic_9x9_2026-10-22_solution.mp4",
+      "media_type": "video/mp4",
+      "bytes": 243935,
+      "sha256": "9e8e2f9aac4788f281f939f12f614eb2e62e9b8c1463a78e8a787be2e9ebf786"
     },
     {
       "path": "media/games/social/instagram/library/cube_3x3_2026-09-09_solution.gif",
