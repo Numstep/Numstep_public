@@ -9,8 +9,8 @@
       "path": "media/games/social/daily/box/3x3.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/box/3x3.jpg",
       "media_type": "image/jpeg",
-      "bytes": 70168,
-      "sha256": "f8412659401eddfee7a010df8c2a96adc9488ea8e8d1f32398336e9168807412"
+      "bytes": 69891,
+      "sha256": "fc9532d5a9b55a361a9d86cb5150acc7664e8c01d24232b24b2b90ad2a1f8024"
     },
     {
       "path": "media/games/social/daily/box/3x3.png",
@@ -23,8 +23,8 @@
       "path": "media/games/social/daily/classic/5x5.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/classic/5x5.jpg",
       "media_type": "image/jpeg",
-      "bytes": 67133,
-      "sha256": "e2b6fc7a251228de8d8c9987962f07abed069d477466b8e7350852ae5e8b25b8"
+      "bytes": 67062,
+      "sha256": "d3030335d8311a9cfb815bbcd05b05d8ca5e394c02db53c0387a625e1f136a48"
     },
     {
       "path": "media/games/social/daily/classic/5x5.png",
@@ -37,8 +37,8 @@
       "path": "media/games/social/daily/classic/7x7.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/classic/7x7.jpg",
       "media_type": "image/jpeg",
-      "bytes": 74469,
-      "sha256": "2d7fe57b6b61387da64952a21122d5fb954e12eb28e0fecf922ebe1046b83091"
+      "bytes": 74661,
+      "sha256": "f21140975cca61e6bcadd8160030410e556565733f5bcc30d6df99b0c5e4b581"
     },
     {
       "path": "media/games/social/daily/classic/7x7.png",
@@ -51,8 +51,8 @@
       "path": "media/games/social/daily/classic/9x9.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/classic/9x9.jpg",
       "media_type": "image/jpeg",
-      "bytes": 83657,
-      "sha256": "96caaaa00cb5caac06b2e202347d42da9c21a034cf7af1f88d8e683a8062e736"
+      "bytes": 82565,
+      "sha256": "af52118892b8b1ebfbb49c77cf17743195ecf91f6f743d920d9c228be4d69f57"
     },
     {
       "path": "media/games/social/daily/classic/9x9.png",
@@ -65,8 +65,8 @@
       "path": "media/games/social/daily/cube/3x3.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/cube/3x3.jpg",
       "media_type": "image/jpeg",
-      "bytes": 61992,
-      "sha256": "924f178aee55cd0b96ef5acd97979c58bd0158a52da4a700a1223291abafb2a4"
+      "bytes": 61878,
+      "sha256": "5b596ff7e6306719633481404afafe8958c7faef251b473e0600b8a06d631045"
     },
     {
       "path": "media/games/social/daily/cube/3x3.png",
@@ -79,8 +79,8 @@
       "path": "media/games/social/daily/hypercube/3x3.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/hypercube/3x3.jpg",
       "media_type": "image/jpeg",
-      "bytes": 84815,
-      "sha256": "83c2f17349b2aa8ef35f2ada7ef7bb126a3e945aad66126b0c791f60d5c90bb3"
+      "bytes": 84970,
+      "sha256": "c3141f168c2ce81b20fd9f8c0064adb7265dc134f1a5f68d82cedaa896d4962c"
     },
     {
       "path": "media/games/social/daily/hypercube/3x3.png",
@@ -93,8 +93,8 @@
       "path": "media/games/social/daily/torus/5x5.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/torus/5x5.jpg",
       "media_type": "image/jpeg",
-      "bytes": 65515,
-      "sha256": "048ddbabfd064ec004e70a06d01372f683124c1d72728fdf3b0f4166257a6ad9"
+      "bytes": 65213,
+      "sha256": "282635fde01eca011a46c978ce8d60f1b0e65a4b66299b5b612a0a22fb1313ab"
     },
     {
       "path": "media/games/social/daily/torus/5x5.png",
@@ -107,8 +107,8 @@
       "path": "media/games/social/daily/torus/7x7.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/torus/7x7.jpg",
       "media_type": "image/jpeg",
-      "bytes": 73100,
-      "sha256": "f1b643754042f7858c3c0a1a79efde090598f1c92f3013f401c705a0c8dcf758"
+      "bytes": 72914,
+      "sha256": "2189358ad41cca2282a978fbc63ee2c2ef685096deaaa93250884f5417171a54"
     },
     {
       "path": "media/games/social/daily/torus/7x7.png",
@@ -121,8 +121,8 @@
       "path": "media/games/social/daily/torus/9x9.jpg",
       "url": "https://raw.githubusercontent.com/Numstep/Numstep_public/main/media/games/social/daily/torus/9x9.jpg",
       "media_type": "image/jpeg",
-      "bytes": 80547,
-      "sha256": "5d42e0dbf7ffbf0369d515818e4d895a8dcc47503ccb77e37c277554a37eb969"
+      "bytes": 82080,
+      "sha256": "21e7e99155dec134cbb7d3f16d1ad36f928a2a04ed4773cea5c0ac7556243e26"
     },
     {
       "path": "media/games/social/daily/torus/9x9.png",
